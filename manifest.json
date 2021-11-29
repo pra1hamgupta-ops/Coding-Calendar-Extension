@@ -4,9 +4,9 @@
     "manifest_version": 2,
     "browser_action": {
         "default_popup": "popup.html",
-        "default_icon": "logo.jpeg"
+        "default_icon": "logo.png"
     },
     "icons": {
-        "128": "logo.jpeg"
+        "128": "logo.png"
     }
 }
